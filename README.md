@@ -1,1 +1,3 @@
 # AurumCorrupto
+
+GitGud.
